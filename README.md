@@ -1,5 +1,5 @@
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUtY3LIjJyoFQRzF_HtKlxDskxXBbYyiMGadTuOuWWQ&s=10">
+<img src="https://bytelabz.com/wp-content/uploads/2018/02/web-design-development-trivandrum.jpg">
 
 <h1 align="center">I'm  Shahab Uddin</h1>
 <h3 align="center">I specialize in developing responsive websites that are fast, visually appealing, and optimized for performance, helping businesses succeed in the digital world</h3>
